@@ -1,0 +1,39 @@
+.outerBox {
+	border: 1px solid black;
+	font-size: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+}
+
+.rowOne {
+	display: inline-block;
+	height: 200px;
+	width: 50%;
+}
+
+.rowTwo {
+	display: inline-block;
+	height: 300px;
+	width: 33.33%;
+}
+
+.rowOneboxOne {
+	background-color: green;
+}
+
+.rowOneboxTwo {
+	background-color: blue; 
+}
+
+.rowTwoboxOne {
+	background-color: grey;
+}
+
+.rowTwoboxTwo {
+	background-color: black;
+}
+
+.rowTwoboxThree {
+	background-color: orange;
+}
